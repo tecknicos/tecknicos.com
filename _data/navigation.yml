@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Why Tecknicos?"
+    url: /solutions/why-tecknicos
+  - title: "Solutions"
+    url: /solutions/
+  - title: "Use Cases"
+    url: /solutions/use-cases/
+  - title: "Blog"
+    url: /blog/
+  - title: "Company"
+    url: /community/company/
+  - title: "Contact Us"
+    url: /help/contact/    
