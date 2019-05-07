@@ -28,7 +28,7 @@ Common use cases:
 * You are a business owner, and you already have the Front-end to your product down pat, but lack adequate staffing to support backoffice infrastructure
 * Any combination of the above
 
-Read more: [TK.CCO](/solutions/tkcco)
+Read more: [TK.CCO](solutions/tkcco/)
 
 ## CHX: Complex and Hybrid Cloud Execution 
 
@@ -49,4 +49,4 @@ Common use cases:
 	- VMWare PKS
 * Any combination of the above
 
-Read more: [TK.CHX](/solutions/tkchx)
+Read more: [TK.CHX](solutions/tkchx)
