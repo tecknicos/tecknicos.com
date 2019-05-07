@@ -10,7 +10,7 @@ The team at Tecknicos maintains a comprehensive set of documentation for our too
 
 If you need help, the docs are the best place to find it.
 
-* Read the [Tecknicos Docs](https://tecknicos.com)
+* Read the [Tecknicos Docs](/tecknicos.com/help/)
 
 ## Support
 
