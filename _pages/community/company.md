@@ -19,6 +19,6 @@ And we realize this goal through our combined 40-year span of in industry expert
 
 Meet the team:
 
-| [<img src="/assets/images/avatars/bertt.jpg" width="200px;" alt="Bert Tejeda"/> <b>Bert Tejeda</b>](https://github.com/berttejeda) 
-| [<img src="/assets/images/avatars/christ.jpg" width="200px;" alt="Chris Tejeda"/><b>Chris Tejeda</b>](https://github.com/ctejeda)
-| [<img src="/assets/images/avatars/joffq.jpg" width="200px;" alt="Joff Quituisaca"/><b>Joff Quituisaca</b>](https://github.com/Joffbuilds) 
+| [<img src="/tecknicos.com/assets/images/avatars/bertt.jpg" width="200px;" alt="Bert Tejeda"/> <b>Bert Tejeda</b>](https://github.com/berttejeda) 
+| [<img src="/tecknicos.com/assets/images/avatars/christ.jpg" width="200px;" alt="Chris Tejeda"/><b>Chris Tejeda</b>](https://github.com/ctejeda)
+| [<img src="/tecknicos.com/assets/images/avatars/joffq.jpg" width="200px;" alt="Joff Quituisaca"/><b>Joff Quituisaca</b>](https://github.com/Joffbuilds) 

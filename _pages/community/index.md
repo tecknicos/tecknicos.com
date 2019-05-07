@@ -18,7 +18,7 @@ Our governance model is a binary process:
 - A Project Management comitte oversees open projects
 - A Technical Steering committee drives technical direction
 
-See [Governance](/community/governance) for more information.
+See [Governance](community/governance) for more information.
 
 Interested in making Tecknicos better? Here are some ways you can get involved!
 
