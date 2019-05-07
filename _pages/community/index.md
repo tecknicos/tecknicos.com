@@ -1,10 +1,7 @@
 ---
 title: Community
-author_profile: false
 layout: single
-permalink: /community/
-sidebar:
-  nav: "community"
+permalink: /community/  
 ---
 
 Tecknicos is comprised of an open and welcoming group of technology-loving people 😜

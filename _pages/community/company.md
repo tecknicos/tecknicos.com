@@ -9,9 +9,6 @@ header:
   overlay_image: /assets/images/shutterstock_178533569-1024x700.jpg
   caption: "Company"
   no_tagline: "true"
-sidebar:
-  nav: "company"
-date: 2018-03-01T00:00:00-00:00
 ---
 
 Founded in 2016, Tecknicos is a modest startup providing Managed Cloud Services to small and medium–sized companies looking to leverage modern cloud-based infrastructure technologies in their business operation. 
