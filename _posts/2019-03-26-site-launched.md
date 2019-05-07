@@ -3,7 +3,6 @@ id: 8566
 title: Site Launched!
 date: 2019-03-26T00:00:25+00:00
 author: Bert Tejeda
-debugger: false
 layout: single
 thesis_thumb_width:
   - "66"
