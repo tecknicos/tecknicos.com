@@ -2,7 +2,7 @@
 title: Company
 author_profile: false
 layout: splash
-permalink: /community/company
+permalink: /community/company/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
