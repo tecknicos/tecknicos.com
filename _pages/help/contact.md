@@ -8,8 +8,5 @@ sidebar:
 date: 2018-03-01T00:00:00-00:00
 ---
 
-<p>
-  email: [info@tecknicos.com](mailto:info@tecknicos.com)<br>
-  <br>
-  slack: [tecknicosslack.com](tecknicosslack.com)
-</p>
+email: [info@tecknicos.com](mailto:info@tecknicos.com)
+slack: [tecknicosslack.com](tecknicosslack.com)
