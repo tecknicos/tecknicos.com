@@ -9,7 +9,7 @@ date: 2018-03-01T00:00:00-00:00
 ---
 
 <p>
-  email: info@tecknicos.com<br>
+  email: [info@tecknicos.com](mailto:info@tecknicos.com)<br>
   <br>
-  slack: slack.tecknicos.com
+  slack: [tecknicosslack.com](tecknicosslack.com)
 </p>
