@@ -10,6 +10,5 @@ thesis_thumb_height:
   - "66"
 aktt_notify_twitter:
   - 'no'
-
 ---
 We've made the choice to move from Wordpress to Github Pages. More to come!
