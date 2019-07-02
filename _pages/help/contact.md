@@ -30,8 +30,8 @@ How'd you hear about us? <select name="source">
   <option value="search_engine">Search Engine</option>
   <option value="social_media">Social Media</option>
   <option value="word_of_mouth">Word Of Mouth</option>
-  <option value="word_of_mouth">Gamma Rays</option>
-  <option value="word_of_mouth">Other</option>
+  <option value="gamma_rays">Gamma Rays</option>
+  <option value="other">Other</option>
 </select>
 
 <input type="submit" name="submit" value="Send">
